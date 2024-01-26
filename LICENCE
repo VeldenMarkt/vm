@@ -1,0 +1,193 @@
+
+Build- und Release-Ordner
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+Andere Dateien und Ordner
+.settings/
+
+Ausführbare Dateien
+*.swf
+*.air
+*.ipa
+*.apk
+
+Projektdateien, d.h. .project, .actionScriptProperties und .flexProperties
+sollten NICHT ausgeschlossen werden, da sie Compiler-Einstellungen und andere wichtige
+Informationen für Eclipse / Flash Builder enthalten.
+277 Änderungen: 277 Hinzufügungen & 0 Löschungen277
+LIZENZ
+@@ -0,0 +1,277 @@
+Eclipse Public License - v 2.0
+
+java
+Copy code
+DAS BEGLEITENDE PROGRAMM WIRD UNTER DEN BEDINGUNGEN DIESER ECLIPSE
+PUBLIC LICENSE ("LIZENZ") ZUR VERFÜGUNG GESTELLT. JEDE NUTZUNG, VERVIELFÄLTIGUNG ODER VERTEILUNG
+DES PROGRAMMS STELLT DIE ANNAHME DIESER LIZENZ DURCH DEN EMPFÄNGER DAR.
+DEFINITIONEN
+"Beitrag" bedeutet:
+
+a) im Fall des anfänglichen Mitwirkenden, der anfängliche Inhalt
+der unter dieser Vereinbarung Verteilten, und
+
+b) im Fall eines jeden nachfolgenden Mitwirkenden:
+i) Änderungen am Programm und
+ii) Ergänzungen zum Programm;
+wobei solche Änderungen und/oder Ergänzungen zum Programm von
+und von diesem bestimmten Mitwirkenden vertrieben werden. Ein Beitrag
+"stammt" von einem Mitwirkenden, wenn er vom
+Mitwirkenden selbst oder von jemandem, der im Namen des Mitwirkenden handelt, zum
+Programm hinzugefügt wurde. Beiträge
+beinhalten keine Änderungen oder Ergänzungen zum Programm, die
+keine modifizierten Werke sind.
+
+"Mitwirkender" bedeutet jede Person oder Einheit, die das Programm vertreibt.
+
+"Lizenzierte Patente" bedeuten patentrechtliche Ansprüche, die von einem Mitwirkenden lizenzierbar sind und
+die zwangsläufig durch die Nutzung oder den Verkauf seines Beitrags allein
+oder in Kombination mit dem Programm verletzt werden.
+
+"Programm" bedeutet die gemäß dieser
+Vereinbarung verteilten Beiträge.
+
+"Empfänger" bedeutet jede Person, die das Programm unter dieser Vereinbarung
+oder einer Sekundärlizenz (falls zutreffend) erhält, einschließlich der Mitwirkenden.
+
+"Abgeleitete Werke" bedeutet jede Arbeit, ob in Quellcode oder anderer
+Form, die auf (oder abgeleitet von) dem Programm basiert und für das
+die redaktionellen Überarbeitungen, Anmerkungen, Erläuterungen oder anderen
+Modifikationen als Ganzes ein eigenständiges Werk der Urheberschaft darstellen.
+
+"Modifizierte Werke" bedeutet jede Arbeit im Quellcode oder anderer Form, die
+sich aus einer Hinzufügung zu, einer Löschung aus oder einer Modifikation des
+Inhalts des Programms ergibt, einschließlich, um die Klarheit zu wahren, eine neue Datei
+im Quellcode, die Inhalte des Programms enthält. Modifizierte
+Werke umfassen keine Arbeiten, die nur Deklarationen,
+Schnittstellen, Typen, Klassen, Strukturen oder Dateien des Programms allein
+jeweils in dem Fall, um auf das Programm oder modifizierte Werke davon zu verlinken,
+zu binden oder abzuleiten.
+
+"Verteilen" bedeutet die Handlungen des a) Verteilens oder b) Bereitstellens
+in einer Weise, die den Transfer einer Kopie ermöglicht.
+
+"Quellcode" bedeutet die Form eines Programms, die bevorzugt wird für
+Modifikationen, einschließlich, aber nicht beschränkt auf Software-Quellcode,
+Dokumentationsquelle und Konfigurationsdateien.
+
+"Sekundärlizenz" bedeutet entweder die GNU General Public License,
+Version 2.0, oder spätere Versionen dieser Lizenz, einschließlich aller
+Ausnahmen oder zusätzlichen Berechtigungen, wie sie vom ursprünglichen
+Mitwirkenden identifiziert wurden.
+
+RECHTSGEWÄHRUNG
+a) Unterliegt den Bedingungen dieser Vereinbarung gewährt jeder Mitwirkende hiermit
+dem Empfänger eine nicht-exklusive, weltweite, gebührenfreie Urheberrechtslizenz
+zur Vervielfältigung, zur Erstellung von abgeleiteten Werken,
+zur öffentlichen Darstellung, zur öffentlichen Aufführung, zum
+Vertrieb und zur Unterlizenzierung des Beitrags eines solchen
+Mitwirkenden, falls vorhanden, und solcher abgeleiteten Werke.
+
+b) Unterliegt den Bedingungen dieser Vereinbarung gewährt jeder Mitwirkende hiermit
+dem Empfänger eine nicht-exklusive, weltweite, gebührenfreie Patentlizenz
+unter den lizenzierten Patenten zur Herstellung, Nutzung, zum Verkauf,
+zum Angebot zum Verkauf, zum Import und zum sonstigen Transfer des Beitrags eines solchen Mitwirkenden,
+falls vorhanden, im Quellcode oder in anderer Form. Diese Patentlizenz wird
+auf die Kombination des Beitrags und des Programms angewendet, wenn zum
+Zeitpunkt, an dem der Beitrag vom Mitwirkenden hinzugefügt wird, eine solche Hinzufügung
+des Beitrags dazu führt, dass diese Kombination von den
+lizenzierten Patenten erfasst wird. Die Patentlizenz gilt nicht für andere
+Kombinationen, die den Beitrag enthalten. Keine Hardware an sich
+wird hiermit lizenziert.
+
+c) Der Empfänger versteht, dass obwohl jeder Mitwirkende die
+Lizenzen für seine Beiträge gemäß dieser Vereinbarung gewährt, keine
+Zusicherungen von einem Mitwirkenden erbracht werden, dass das Programm keine
+Patent- oder andere geistige Eigentumsrechte eines anderen Unternehmens verletzt.
+Jeder Mitwirkende lehnt jede Haftung des Empfängers für Ansprüche ab,
+die von einem anderen Unternehmen aufgrund von Verletzungen von geistigen
+Eigentumsrechten oder anderweitig erhoben werden. Als Bedingung für die Ausübung der
+hierin gewährten Rechte und Lizenzen übernimmt jeder Empfänger hiermit
+die alleinige Verantwortung für die Sicherung anderer geistiger
+Eigentumsrechte, falls vorhanden. Zum Beispiel, wenn eine Lizenz für Patente von
+Dritten erforderlich ist, um es dem Empfänger zu ermöglichen, das
+Programm zu verteilen, liegt es in der Verantwortung des Empfängers, diese Lizenz
+zu erwerben, bevor das Programm verteilt wird.
+
+d) Jeder Mitwirkende erklärt, dass ihm nach bestem Wissen ausreichen
+Urheberrechte an seinem Beitrag, falls vorhanden, vorliegen, um
+die in dieser Vereinbarung festgelegte Urheberrechtslizenz zu gewähren.
+
+e) Ungeachtet der Bestimmungen einer Sekundärlizenz erteilt kein
+Mitwirkender zusätzliche Lizenzen an einen Empfänger (außer
+denen, die in dieser Vereinbarung festgelegt sind) als Ergebnis
+des Erhalts des Programms durch einen Empfänger unter den Bedingungen einer
+Sekundärlizenz (sofern dies gemäß den Bestimmungen von Abschnitt 3 gestattet ist).
+
+ANFORDERUNGEN
+3.1 Wenn ein Mitwirkender das Programm in irgendeiner Form vertreibt, dann:
+
+a) das Programm muss auch als Quellcode verfügbar gemacht werden, gemäß Abschnitt 3.2, und der Mitwirkende muss
+das Programm begleiten mit einer Erklärung, dass der Quellcode für das Programm
+unter dieser Vereinbarung verfügbar ist, und informiert Empfänger darüber, wie sie
+ihn in angemessener Weise auf einem Medium erhalten können, das üblicherweise
+für den Softwareaustausch verwendet wird; und
+
+b) der Mitwirkende darf das Programm unter einer anderen Lizenz verteilen,
+vorausgesetzt, dass eine solche Lizenz:
+i) im Namen aller anderen Mitwirkenden alle
+Garantien und Bedingungen, ausdrücklich und stillschweigend, einschließlich
+Garantien oder Bedingungen hinsichtlich Titel und Nichtverletzung, und
+stillschweigende Garantien oder Bedingungen hinsichtlich Marktgängigkeit und
+Eignung für einen bestimmten Zweck, wirksam ausschließt;
+
+perl
+Copy code
+ ii) im Namen aller anderen Mitwirkenden alle
+ Haftung für Schäden, einschließlich direkter, indirekter, spezieller,
+ zufälliger und Folgeschäden, wie z.B. entgangene Gewinne, wirksam ausschließt;
+
+ iii) nicht versucht, die Rechte der Empfänger
+ am Quellcode gemäß Abschnitt 3.2 zu beschränken oder zu ändern; und
+
+ iv) erfordert, dass jede nachfolgende Verteilung des Programms durch
+ irgendeine Partei unter einer Lizenz erfolgt, die die Anforderungen
+ dieses Abschnitts 3 erfüllt.
+3.2 Wenn das Programm als Quellcode verteilt wird:
+
+a) es muss unter dieser Vereinbarung verfügbar gemacht werden, oder wenn das
+Programm (i) mit anderem Material in einer separaten Datei oder
+Dateien kombiniert wird, die unter einer Sekundärlizenz verfügbar gemacht werden, und (ii) der anfängliche
+Mitwirkende an den Quellcode die in
+Anhang A dieser Vereinbarung beschriebene Benachrichtigung angehängt hat, dann kann das Programm
+unter den Bedingungen solcher Sekundärlizenzen verfügbar gemacht werden, und
+
+b) eine Kopie dieser Vereinbarung muss jeder Kopie des
+Programms beigefügt werden.
+
+3.3 Mitwirkende dürfen keine Urheberrechts-, Patent-,
+Marken-, Zuschreibungshinweise, Gewährleistungsausschlüsse oder Haftungsbeschränkungen
+("Hinweise") aus dem Programm entfernen oder ändern, die in
+irgendeiner Kopie des Programms enthalten sind, die sie verteilen, vorausgesetzt, dass
+Mitwirkende ihre eigenen angemessenen Hinweise hinzufügen dürfen.
+
+KOMMERZIELLE VERTEILUNG
+Kommerzielle Softwareverteiler können bestimmte Verantwortlichkeiten
+gegenüber Endbenutzern, Geschäftspartnern und Ähnlichem übernehmen. Während diese
+Lizenz dazu bestimmt ist, die kommerzielle Nutzung des Programms zu erleichtern,
+sollte der Mitwirkende, der das Programm in einem kommerziellen Produkt
+anbietet, dies in einer Weise tun, die keine potenzielle Haftung für
+andere Mitwirkende schafft. Daher, wenn ein Mitwirkender das Programm
+in einem kommerziellen Produktangebot einbezieht, stimmt ein solcher Mitwirkender
+("Kommerzieller Mitwirkender") hiermit zu, jeden anderen Mitwirkenden ("Entschädigter
+Mitwirkender") gegen Verluste, Schäden und Kosten (gemeinsam "Verluste") zu verteidigen
+zu verteidigen und von Ansprüchen, Klagen und anderen Rechtsbehelfen Dritter zu entbinden, die von einem Dritten gegen den Entschädigten Mitwirkenden erhoben werden, soweit diese durch die Handlungen oder Unterlassungen des
+Kommerziellen Mitwirkenden im Zusammenhang mit der Verbreitung des Programms in einem kommerziellen Produktangebot verursacht wurden. Die Verpflichtungen in diesem Abschnitt gelten nicht für Ansprüche oder Verluste, die sich auf eine tatsächliche oder behauptete
+Verletzung geistiger Eigentumsrechte beziehen. Um sich zu qualifizieren, muss ein
+Entschädigter Mitwirkender: a) den Kommerziellen Mitwirkenden unverzüglich schriftlich über
+solchen Anspruch benachrichtigen und b) dem Kommerziellen Mitwirkenden die Kontrolle überlassen
+und mit dem Kommerziellen Mitwirkenden bei der Verteidigung und allen
+zusammenhängenden Vergleichsverhandlungen zusammenarbeiten. Der Entschädigte Mitwirkende kann
+sich zu seinen eigenen
